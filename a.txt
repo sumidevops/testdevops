@@ -1,3 +1,5 @@
 learning git
 
 making changes
+
+learning stashing
